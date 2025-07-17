@@ -11,8 +11,9 @@ Integrating a local LLM with pentesting tools, shell commands with vulnerabilty 
 Examples usage : 
   USER: run_shell_command firefox or run_nmap_scan 192.168.1.1
 
+<img width="1346" height="674" alt="image" src="https://github.com/user-attachments/assets/4b8d8079-57b6-4606-90b5-5b6a2eea9621" />
 
-<img width="1009" height="668" alt="image" src="https://github.com/user-attachments/assets/c9026e92-3bd0-409c-92c8-32d0fb1bf563" />
+
 
 
 You can customize and add more pentesting tool and customize the tool according to your own accords ! 
