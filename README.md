@@ -5,7 +5,8 @@ Here I have used Ollama(qwen2.5:3b) for the LLM processing to Keep everything lo
 
 Integrating a local LLM with pentesting tools, shell commands with vulnerabilty analysis and command suggestions .
 
-<img width="892" height="214" alt="image" src="https://github.com/user-attachments/assets/07138f78-fe2b-404c-86d9-98541e06f3ac" />
+<img width="1082" height="324" alt="code" src="https://github.com/user-attachments/assets/fad16249-265c-40b0-b147-b701b2988c34" />
+
 
 Examples usage : 
   USER: run_shell_command firefox or run_nmap_scan 192.168.1.1
